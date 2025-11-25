@@ -96,3 +96,45 @@ ls
 cat passwd
 last
 cat /etc/passwd
+yum install git
+git inti
+clear
+git init
+git add .
+ls
+rm -rf *
+ls
+touch hdfc-file
+ls
+git add .
+ls
+git commit -m " first commit"
+git branch -m main
+git remote add origin https://github.com/Aliya158/aliya.git
+git push -u origin main
+git add .
+ls
+git commit -m " second commit"
+git push origin master
+git push origin main
+git branch feature -branch
+git checkout main
+git merge featurec-branch
+git add .
+git commit -m "add new feature"
+git checkout main
+git merge featurec-branch
+git merge feature -branch
+git push origin main
+git checkout
+ls
+pwd
+cd /home/
+ls
+cd aliya/
+ls
+file1
+clear 
+history 
+cd ..
+exit
