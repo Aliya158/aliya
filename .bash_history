@@ -96,3 +96,43 @@ ls
 cat passwd
 last
 cat /etc/passwd
+git log --oneline
+git revert 4ff6160
+git revert b960703  
+git stash
+git revert b960703  
+git revert 4ff6160
+git revert b960703  
+clear
+git stash
+git revert 4ff6160
+git stash pop
+git restore .
+ls
+git push --force
+git add .
+git commit -m "delete unwanted files"
+git pull
+git push --force
+git hook
+git commit .
+nano .git/hooks/pre-commit
+chmod +x .git/hooks/pre-commit
+git commit -m "test"
+git add <file>
+git commit -m "test"
+ git push
+nano .git/hooks/pre-push
+chmod +x .git/hooks/pre-push
+git push
+tree 
+cat hdfc-file 
+ls
+ll
+nano .git/hooks/commit-msg
+chmod +x .git/hooks/commit-msg
+git commit -m "Hi"
+git push 
+git push --force
+git log --oneline
+git show
